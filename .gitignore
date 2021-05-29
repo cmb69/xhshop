@@ -1,3 +1,4 @@
 /vendor
 /tests/coverage
+/tools
 /composer.lock
